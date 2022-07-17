@@ -1,0 +1,16 @@
+html, body {
+  text-align: center;   
+  height: 100%;
+  width: 100%;
+  background-color: #0c0520; 
+}
+
+p {
+font-family: 'Edu NSW ACT Foundation', cursive;
+color: white;      
+}
+
+h1 {
+ font-family: 'Oswald', sans-serif; 
+ color: lightblue;       
+}

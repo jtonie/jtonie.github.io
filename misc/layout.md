@@ -25,9 +25,9 @@
 </head>
 
 <body>
-<h1>Shroom#9570 Introduction</h1>
+<h1>Title</h1>
 <img src="assets/intro.gif" alt="Intro">
-<p>I am a Discord Bot Developer</p>        
+<p>First Text</p>        
 
 </body>
 
